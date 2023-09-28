@@ -1,6 +1,6 @@
 /* USER CODE BEGIN Header */
 /**
- *GITHUB LINK : https://github.com/mukundimangena/3096-Pracs-MNGBLE005
+ *https://github.com/mukundimangena/3096-Pracs-MNGBLE005/blob/main/main.c
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
